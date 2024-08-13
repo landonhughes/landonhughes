@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi there 👋, I'm Landon =
+#### Django, Swift, C# ❤️
+![Django, Swift, C# ❤️](https://pbs.twimg.com/profile_banners/283094619/1696099958/1500x500)
 
-Hi, I'm Landon 👋
+Hey I'm Landon 👋 I work as a fullstack Django (Python) developer. I love learning and exposing myself to new languages. My favorites are Swift, Python, and C#. 
 
-I work as a fullstack Django developer. [![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=landonhughes)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: Python / JavaScript / Swift / C# / Java / Kotlin / HTML / CSS / PostgreSQL / Linux
+

@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Landon =
+### Hi there 👋, I'm Landon
 #### Django, Swift, C# ❤️
 ![Django, Swift, C# ❤️](https://pbs.twimg.com/profile_banners/283094619/1696099958/1500x500)
 

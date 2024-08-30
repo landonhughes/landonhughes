@@ -2,8 +2,8 @@
 #### Software Engineer I @ UX2D 
 ![Django, Swift, C# ❤️](https://pbs.twimg.com/profile_banners/283094619/1696099958/1500x500)
 
-Hey I'm Landon 👋 I work as a fullstack Django (Python) developer. I love learning and exposing myself to new languages. My favorites are Swift, Python, and C#. 
+Hey I'm Landon 👋 I work as a fullstack Django (Python) developer. I love learning and exposing myself to new languages. My favorites are Swift, Python, and TypeScript. 
 
 
-Skills: Python / JavaScript / Swift / C# / Java / Kotlin / HTML / CSS / PostgreSQL / Linux
+Skills: Python / JavaScript / TypeScript / Swift / C# / Java / Kotlin / HTML / CSS / PostgreSQL / Linux
 

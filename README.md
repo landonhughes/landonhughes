@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Landon
 
-Hey I'm Landon 👋 I currently work as a DevOps Engineer. 
+Hey I'm Landon 👋 
 
 I love learning and exposing myself to new languages. My favorites are Swift, Python, and TypeScript. 
 
